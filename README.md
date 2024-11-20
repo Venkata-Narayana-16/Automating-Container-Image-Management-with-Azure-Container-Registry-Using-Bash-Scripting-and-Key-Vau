@@ -2,6 +2,7 @@
 # Securely Building and Deploying Container Images in Azure with ACR and Key Vault using Bash Scripting
 
 This project demonstrates how to automate the secure building and deployment of container images in Azure using Azure Container Registry (ACR) and Azure Key Vault, with the help of Bash scripting.
+For a more detailed explanation of how this project was developed and deployed, you can refer to my [Medium blog post](https://medium.com/@venkatnarayanakuruva/automating-container-image-management-with-azure-container-registry-using-bash-scripting-and-key-dd1ce356ffdd).
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
@@ -147,6 +148,8 @@ This project can be found in the GitHub repository:
 [https://github.com/Azure-Samples/acr-build-helloworld-node](https://github.com/Azure-Samples/acr-build-helloworld-node)
 
 ---
-
+## Medium Blog Link
+[Medium blog post](https://medium.com/@venkatnarayanakuruva/automating-container-image-management-with-azure-container-registry-using-bash-scripting-and-key-dd1ce356ffdd).
 ## Notes
 - Replace placeholders (e.g., `<acr-name>`  `<azure-key-vault-name>` and `<resource-group-name>`) with your actual resource names.
+  
